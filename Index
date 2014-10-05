@@ -1,5 +1,5 @@
-<!--Lauren Hennessy 16/09/2014 -->
 <!DOCTYPE html> 
+<!--Lauren Hennessy 16/09/2014 -->
 <html> 
 <head> 
 	<meta charset="utf-8" /> 
@@ -9,7 +9,7 @@
 <body> 
 	<div class = "container">
 		<header>
-			<a href="index.html"><img src="images/banner1.jpg" alt="" height= "400px" width= "881px" /></a>
+			<a href="index.html"><img src="images/banner1.jpg" alt="" height= "400" width= "881" /></a>
 		</header>
 		<nav>
 			<a href="index.html">Home</a><br />
@@ -18,25 +18,28 @@
 			<a href="html/video.html">Video</a><br />
 		</nav>
 		<section>
-			<h2>Girl Talk - music for the ADD generation</h2>
-			<article id="indexarticle">
-				<h4>Music</h4>
-				This website is dedicated to showing how an engineer who looked like this (image1) became arguably the most famous mashup artist in the word, playing to sold out crowds around the world. Girl Talk, also know as Greg Michael Gillis, has released 5 albums and 3 EPs in the last 12 years. With the exception of his recent collaboration with rapper Freeway (Leslie Pridgen), his work contains only samples with no original content whatsoever. His music consists of hundreds of samples mashed together into continuous play albums; samples span a wide range of genres with a focus on modern rap and pop music.
-				<img src="images/confetti.png" alt="Girl Talk concert"><br />Girl talk concert</img>
-			</article>
-			<article id="indexarticle2">
-				<h4>Copyright Issues</h4>
-				Gillis’s work has been described by The New York Times Magazine as “a lawsuit waiting to happen”. Financial liability for the album Night Ripper (2006), which contains 300 potential copyright infringements, was estimated at approximately $45 million US, though no lawsuits have been brought against him to date. Gillis cites fair use as a defence to his sampling habits and believes mainstream media are creating controversy where there is none. He has appeared in copyright documentaries Good Copy Bad Copy (2007) and RiP!: A Remix Manifesto (2008) talking about his work and the implications of copyright law as it stands today.
+			<article>
+				<h2>Girl Talk - music for the ADD generation</h2>
+				<figure id="image1">
+					<img src="images/gregg_gillis.jpg" alt="Greg Gillis" width="400" height="300" /><br />
+					Greg Gillis
+				</figure>
+				<p>This website is dedicated to showing how an engineer who looked like this became arguably the most famous mashup artist in the word, playing to sold out crowds around the world. Girl Talk, also know as Greg Michael Gillis, has released 5 albums and 3 EPs in the last 12 years. With the exception of his recent collaboration with rapper Freeway (Leslie Pridgen), his work contains only samples with no original content whatsoever. His music consists of hundreds of samples mashed together into continuous play albums; samples span a wide range of genres with a focus on modern rap and pop music.</p>
+				<figure>
+					<img src="images/confetti.png" alt="Girl Talk concert" /><br />
+					Girl talk concert
+				</figure>
+				<p>Gillis’s work has been described by The New York Times Magazine as “a lawsuit waiting to happen”. Financial liability for the album Night Ripper (2006), which contains 300 potential copyright infringements, was estimated at approximately $45 million US, though no lawsuits have been brought against him to date. Gillis cites fair use as a defence to his sampling habits and believes mainstream media are creating controversy where there is none. He has appeared in copyright documentaries Good Copy Bad Copy (2007) and RiP!: A Remix Manifesto (2008) talking about his work and the implications of copyright law as it stands today.</p>
 			</article>
 		</section>
 		<footer>
 			<br />
-			<a href="index.html">Home</a>
-			<img src="images/gt_button.png" alt="" height="100px" width= "94px" />
+			<a href="html/home.html">Home</a>
+			<img src="images/gt_button.png" alt="" height="100" width= "94" />
 			<a href="html/biography.html">Biography</a>
-			<img src="images/gt_button.png" alt="" height="100px" width= "94px" />
+			<img src="images/gt_button.png" alt="" height="100" width= "94" />
 			<a href="html/discography.html">Discography</a>
-			<img src="images/gt_button.png" alt="" height="100px" width= "94px" />
+			<img src="images/gt_button.png" alt="" height="100" width= "94" />
 			<a href="html/video.html">Video</a><br />
 			<p>Copywrite Lauren Hennessy 2014</p>
 		</footer>
