@@ -1,0 +1,67 @@
+<!--Lauren Hennessy 16/09/2014 -->
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<meta charset="utf-8" /> 
+	<title>Assignment - Biography</title> 
+	<link rel="stylesheet" type="text/css" href="../css/assignment.css" />
+</head> 
+<body>  
+	<div class = "container">
+		<header>
+			<a href="../index.html"><img src="../images/banner1.jpg" alt="" height= "400px" width= "881px" /></a>
+		</header>
+		<nav>
+			<a href="../index.html">Home</a><br />
+			<a href="../html/biography.html">Biography</a><br />
+			<a href="../html/discography.html">Discography</a><br />
+			<a href="../html/video.html">Video</a><br />
+		</nav>
+		<section>
+			<h2>Biography</h2>
+			<article id="biographyarticle">
+			<p>Gregg Michael Gillis (born October 26, 1981) started experimenting with electronic music whilst attending high school in Pittsburgh, Pennsylvania. During his university studies of biomedical engineering back in his home town of Cleveland, Ohio, he created a solo project under the stage name “Girl Talk”. There has been some conjecture about why he chose this name, ranging from references to various music groups, to the idea of his music being similar to the busy chatter of literal girl talk, to a simple juxtaposition of girl talk being, in his words “exactly the opposite of a man playing a laptop”.</p>
+			<p>Out of University, Gillis worked as an engineer, releasing Girl Talk albums without much success or notoriety until Night Ripper (2006) gained many positive reviews and appeared in numerous best albums of 2006 lists. In 2007, with the success of Night Ripper behind him, Gillis quit his day job to focus solely on his music and has never looked back. Since Night Ripper, Gillis has released two more full albums both with great success, eventually realising his full discography on a pay what you want scheme through his Illegal Art website. This year, Gillis self produced a more traditional EP, Broken Ankles, in a collaboration with Philadelphia rapper Freeway. This is in line with his plan to move into making original music, it is yet unknown whether he will adopt a new stage name for this turn in his career.</p>
+			<p>Though his albums are continuous play with no track breaks, there is also the option of downloading albums broken up for easy navigation on mobile devices. For an example of the sheer number and variety of samples used in a singe Girl Talk “track”, here is the sample list of the opening to the album Feed the Animals, "Play Your Part (Pt.1)":</P>
+			<ol>
+				<li>0:00 - 0:40 Roy Orbison - "Oh, Pretty Woman"</li>
+				<li>0:00 - 2:11 Spencer Davis Group - "Gimme Some Lovin'"</li>
+				<li>0:01 - 0:41 UGK featuring OutKast - "International Player's Anthem (I Choose You)"</li>
+				<li>0:42 - 1:07 DJ Funk - "Pump That Shit Up"</li>
+				<li>0:55 - 1:20 Cupid - "Cupid Shuffle"</li>
+				<li>1:08 - 1:56 Pete Townshend - "Let My Love Open the Door"</li>
+				<li>1:18 - 2:10 Unk - "Walk It Out"</li>
+				<li>1:59 - 2:37 Twisted Sister - "We're Not Gonna Take It"</li>
+				<li>2:04 - 2:10 Huey Lewis and the News - "The Heart of Rock & Roll"</li>
+				<li>2:13 - 2:37 Lil Mama - "G-Slide (Tour Bus)"</li>
+				<li>2:29 - 3:01 Ludacris featuring Shawnna - "What's Your Fantasy"</li>
+				<li>2:36 - 3:01 Temple of the Dog - "Hunger Strike"</li>
+				<li>2:48 - 3:01 Birdman featuring Lil Wayne - "Pop Bottles"</li>
+				<li>3:01 - 3:15 Rage Against the Machine - "Freedom"</li>
+				<li>3:02 - 4:05 Aaliyah featuring Timbaland - "We Need a Resolution"</li>
+				<li>3:02 - 4:06 Birdman and Lil Wayne - "Stuntin' Like My Daddy"</li>
+				<li>3:05 - 4:25 T.I. - "What You Know"</li>
+				<li>3:17 - 3:38 Edwin Starr - "War"</li>
+				<li>3:41 - 4:31 Sinéad O'Connor - "Nothing Compares 2 U"</li>
+				<li>4:13 - 4:43 Shawnna - "Gettin' Some" (portion sampled samples "Blowjob Betty" by Too Short)</li>
+				<li>4:32 - 4:45 Jay-Z featuring UGK - "Big Pimpin'" (portion sampled samples "Khusara Khusara" by Hossam Ramzy and "Slow & Easy" by Zapp)</li>
+				<li>4:32 - 4:45 DJ Funk - "Here We Go"</li>
+				<li>4:32 - 4:42 Joe Budden - "Drop Drop"</li>
+				<li>4:33 - 4:41 Kelis featuring Too $hort - "Bossy"</li>
+				<li>4:34 - 4:44 Young Jeezy featuring Bone Crusher - "Take It to the Floor"</li>
+				<li>4:37 - 4:45 Rare Earth - "I Just Want to Celebrate"</li>
+			</ol>
+		</article>
+		</section>
+		<footer>
+			<a href="../index.html">Home</a>
+			<img src="../images/gt_button.png" alt="" height="100px" width= "94px" />
+			<a href="html/biography.html">Biography</a>
+			<img src="../images/gt_button.png" alt="" height="100px" width= "94px" />
+			<a href="html/discography.html">Discography</a>
+			<img src="../images/gt_button.png" alt="" height="100px" width= "94px" />
+			<a href="html/video.html">Video</a><br />
+		</footer>
+	</div>
+</body> 
+</html> 
