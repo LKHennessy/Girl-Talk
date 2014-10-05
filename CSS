@@ -21,8 +21,8 @@ nav {
 	position: absolute;
 	top: 400px;
 	left: 0px;
-	width: 200px;
-	height: 1200px;
+	width: 160px;
+	height: 1800px;
 	padding: 5px;
 	background-color: purple;
 	font-size: 30px;
@@ -31,36 +31,56 @@ nav {
 section {
 	position: absolute;
 	top: 400px;
-	left: 200px;
-	width: 681px;
-	height: 1200px;
+	left: 160px;
+	width: 721px;
+	height: 1800px;
 	float: left;
 	background-color: #a94f9e;
 	font-size: 20px;
 	text-align: center;
 }
 
+article {
+	width: 95%;
+	margin: 12px;
+	border-radius: 15px;
+	padding: 5px;
+	background-color: #e2e41c;
+	text-align: justify;
+}
+
 footer {
 	position: absolute;
-	top: 1600px;
+	top: 2200px;
 	left: 0px;
-	background-color: purple;
-	width: 100%;
-	height: 300px;
+	width: 100%; 
+	height: 300px; 
 	float: left;
-	font-size: 30px;
+	background-color: purple; 
+	font-size: 30px; 
 	text-align: center;
 }
 
-img {
-	font-size: 15px
+figure {
+	font-size: 10px; 
+	text-align: center;
 }
 
 ol {
-	background-color: black;
-	color: #e2e41c;
-	text-align: left;
 	border-radius: 5px;
+	background-color: black; 
+	color: #e2e41c; 
+	text-align: left; 
+}
+
+h2 {
+	text-align: center; 
+	color: purple;
+}
+
+p:first-letter {
+	color: purple; 
+	font-size: 50px;
 }
 
 /* Links */
@@ -81,41 +101,29 @@ a:active {
 }
 
 /* index content */
-#indexarticle {
-	position: absolute;
-	background-color: #e2e41c;
-	margin: 5px;
-	border-radius: 15px;
-	padding: 5px;
+#indeximage1 {
+	text-align: left;
 }
 
-#indeximage {
-	position: absolute;
-	margin: 5px;
-	font-size: 10px;
-}
-
-#indexarticle2 {
-	position: absolute;
-	top: 750px;
-	background-color: #e2e41c;
-	margin: 5px;
-	border-radius: 15px;
-	padding: 5px;
-}
-
-/*biography content */
-#biographyarticle {
-	position: absolute;
-	background-color: #e2e41c;
-	margin: 5px;
-	border-radius: 15px;
-	padding: 5px;
+/*discography content*/
+table, th, td {
+	border: 1px ridge purple;
+	margin: 0 auto; 
+	padding: 5px; 
+	background-color: #e2e41c; 
+	font-size: 20px; 
 }
 
 /*video content */
 #linkbox {
-	position:absolute;
-	border-style: ridge;
-	border-color: #e2e41c;
+	position:absolute; 
+	top: 900px; 
+	left: 160px; 
+	padding: 5px; 
+	margin: 0 auto; 
+	border-style: ridge; 
+	border-radius: 5px; 
+	border-color: purple; 
+	background-color: #e2e41c; 
+	text-align: center;
 }
